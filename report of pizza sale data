@@ -1,0 +1,55 @@
+This project analyzes pizza sales data to uncover insights on revenue, customer preferences, and product performance. Using Power BI, the dashboard visualizes sales trends, best-selling products, and order patterns to support data-driven business decisions for restaurants or food delivery services.
+
+🔍 Key Highlights
+
+Identified top-selling pizza types and sizes contributing most to revenue.
+
+Analyzed daily, weekly, and seasonal sales trends to find peak order periods.
+
+Studied average order value (AOV) and quantity sold per category.
+
+Evaluated customer preferences to optimize menu offerings and promotions.
+
+Highlighted opportunities for combo offers and targeted marketing campaigns.
+
+📊 Key Metrics (KPIs)
+
+Total Revenue
+
+Total Orders
+
+Average Order Value (AOV)
+
+Total Quantity Sold
+
+Top-Selling Pizza Types
+
+Sales by Pizza Size
+
+Revenue by Category
+
+⚙️ Tools Used
+
+Power BI – Dashboard creation and visualization
+
+Power Query – Data cleaning and transformation
+
+DAX – For calculated measures and KPIs
+
+Excel / CSV – Data source
+
+💡 Insights
+
+Classic and Supreme pizzas are the most popular categories.
+
+Large-sized pizzas generate the highest revenue, while medium sizes are ordered most frequently.
+
+Friday and Saturday evenings see peak sales.
+
+Holiday seasons significantly increase overall orders.
+
+Recommendations include promotional campaigns and menu optimization for high-demand items.
+
+🎯 Conclusion
+
+The Pizza Sales Analysis Dashboard provides actionable insights into sales trends, customer preferences, and product performance. It supports strategic decision-making for menu planning, promotions, and inventory management.
